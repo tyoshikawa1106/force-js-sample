@@ -7,7 +7,7 @@ $ sudo npm install -g force-server
 ```
 
 ## Change AppId
-force.js file & index.js file -> appId = Salesforce Connect Application Consumer Key
+force.js file & index.js file -> appId = Salesforce Connect App: Consumer Key
 
 ## Run
 ```
